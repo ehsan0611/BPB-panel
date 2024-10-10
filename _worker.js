@@ -2868,7 +2868,7 @@ var import_js_sha256 = __toESM(require_sha256());
 import { connect } from "cloudflare:sockets";
 var userID = "89b3cbba-e6ac-485a-9481-976a0415eab9";
 var trojanPassword = `bpb-trojan`;
-var proxyIPs = ["ip.abood2024.lol"];
+var proxyIPs = ["ip2.abood2024.lol"];
 var defaultHttpPorts = ["80", "8080", "2052", "2082", "2086", "2095", "8880"];
 var defaultHttpsPorts = ["443", "8443", "2053", "2083", "2087", "2096"];
 var proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
